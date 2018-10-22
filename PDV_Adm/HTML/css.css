@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color:#d5d5d5;
+	
+}
+
+
+#principal
+{
+	
+	width:1024px;
+	height:768px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(arquivos/bg.jpg);	
+}
+
+
+#form
+{
+	font-family:Tahoma, Geneva, sans-serif;
+	margin-left: 290px;
+	margin-top: 200px;
+	position:absolute;
+	width: 441px;
+	height: 249px;
+	background-image:url(arquivos/caixa.png);
+	background-repeat:no-repeat;
+	
+	
+}
+
+#form1 {
+	padding-top:100px;
+	padding-left: 110px;
+}
+
+.entrar {
+	margin-left: 90px;
+}
+
+#Login {
+	margin-left: 5px;
+}

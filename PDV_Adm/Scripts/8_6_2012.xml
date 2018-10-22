@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<banco>
+	<calendario>
+		<data>8/6/2012</data>
+		<senha>5</senha>
+		<horario1>9:00</horario1>
+		<horario2>10:00</horario2>
+		<horario3>11:00</horario3>
+		<horario4>12:00</horario4>
+		<horario5>14:00</horario5>
+		<rua1>hjkhjk,hjk,hjkhj,hjk,hjkhk,jkjhk</rua1>
+		<rua2>dfgdfg,dfgdfg,dfgdfg,dfgdfg,dfgdfg,gfd</rua2>
+		<rua3>ghj,ghjgfj,ghjgf,ghj,ghj,jg</rua3>
+		<rua4>sdfsdfsdf,sdfsdfsdf,sdf,dsfsdf,sdfdsf,sdfsdfsdf</rua4>
+		<rua5>ghj,ghjgfj,hgj,ghjghj,hgj,hgjgh</rua5>
+	</calendario>
+</banco>

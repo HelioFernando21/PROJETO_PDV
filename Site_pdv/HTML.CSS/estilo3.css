@@ -1,0 +1,236 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image:url(../Arquivos/PDV/vamove.png);
+	background-repeat:repeat-x;
+}
+
+#principal {
+
+	width:1024px;
+	height:768px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(../Arquivos/PDV/BGPDV.jpg);
+	background-repeat:repeat-x;
+}
+
+#banner {
+	width:1024px;
+	height: 150px;
+}
+
+#banner #logo {
+	position:absolute;
+	width: 323px;
+	height: 125px;
+	background-image:url(../Arquivos/PDV/LogoPDV.png);
+	background-repeat:no-repeat;
+	margin-top:13px;
+	margin-left: 10px;
+
+}
+
+#fotinho {
+	width:500px;
+	height:150px;
+	background-image:url(../Arquivos/PDV/detalhe%20banneer.png);
+	margin-left: 550px;
+	position:absolute;
+	
+}
+
+#menu {
+	width:850px;
+	height: 30px;
+	margin-left:155px;
+	margin-top:3px;
+
+}
+
+#bt1 {
+	background-image:url(../Arquivos/PDV/D_sem_sombra.png);
+	width:200px;
+	height:30px;
+	margin-left: 170px;
+	float:left;
+	z-index:0;
+	
+	
+}
+
+
+#bt2 {
+	background-image:url(../Arquivos/PDV/CentroBranco.png);
+	width:200px;
+	height:30px;
+	margin-left:-40px;
+	z-index:1;
+	float:left;
+	
+}
+
+#bt3 {
+	background-image:url(../Arquivos/PDV/CentroAmarelo.png);
+	width:200px;
+	height:30px;
+	margin-left:-40px;
+	z-index:2;
+	float:left;
+}
+
+
+#bt4 {
+	background-image:url(../Arquivos/PDV/D_sem_sombra.png);
+	width:200px;
+	height:30px;
+	margin-left:-40px;
+	z-index:3;
+	float:left;
+	
+}
+
+#bt1:hover {
+	background-image:url(../Arquivos/PDV/CentroAmarelo.png);
+
+
+}
+
+#bt2:hover {
+	background-image:url(../Arquivos/PDV/CentroAmarelo.png);
+
+
+	
+}
+
+#bt3:hover {
+	background-image:url(../Arquivos/PDV/CentroAmarelo.png);
+
+}
+
+#bt4:hover {
+	
+	background-image:url(../Arquivos/PDV/CentroAmarelo.png);
+}
+
+#conteudo {
+	width: 1024px;
+	height: 520px;
+	background-image:url(../Arquivos/PDV/Teste.png);
+	margin-top: 48px;
+	background-repeat:no-repeat;
+	overflow:hidden;
+}
+
+
+#total {
+	height: 400px;
+	width: 600px;
+	margin-left:300px;
+	margin-top: 60px;
+	position:absolute;	
+}
+
+
+#log1 {
+	width:127px;
+	height: 75px;
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin-top: 5px;
+	background-image:url(../Arquivos/Logos/Sem%20T%C3%ADtulo-3.png);
+}
+
+#log2 {
+	width:127px;
+	height: 100px;
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-image:url(../Arquivos/Logos/60768_100x100.png);
+}
+
+
+#log3 {
+	width:127px;
+	height: 95px;
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin-top: 5px;
+	background-image:url(../Arquivos/Logos/Sem%20T%C3%ADtulo-4.png);
+
+}
+
+
+#log4 {
+	width:127px;
+	height: 95px;
+	background-repeat:no-repeat;
+	background-size:contain;
+	margin-top: 5px;
+	background-image:url(../Arquivos/Logos/index.png);
+
+}
+
+#texto1 {
+	width: 400px;
+	height: 80px;
+	position:absolute;
+	margin-left: 540px;
+	margin-top: 60px;
+}
+
+#texto2 {
+	width: 400px;
+	height: 80px;
+	position:absolute;
+	margin-left: 540px;
+	margin-top: 140px;
+}
+
+#texto3 {
+	width: 400px;
+	height: 80px;
+	position:absolute;
+	margin-left: 540px;
+	margin-top: 260px;
+}
+
+#texto4 {
+	width: 400px;
+	height: 80px;
+	position:absolute;
+	margin-left: 540px;
+	margin-top: 360px;
+}
+
+
+#rodape {
+	width:1024px;
+	height: 19px;
+}
+
+a {
+	color:#000;
+	text-decoration:none;
+	margin-top:3px;
+	margin-left: 70px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	font-size:16px;
+	display:block;
+}
+
+#parcerias {
+	width: 600px;
+	height: 50px;
+	background-color:#EAEAEA;
+	margin-top: 470px;
+	margin-left: 350px;
+}
+
+p {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000;
+}

@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+#Principal #linha2
+{
+	
+	float:right;
+	width: 35px;
+	height: 20px;
+	border:2px #000 solid;
+	float:left;	
+	text-align:center;
+	margin:10px;
+	top:100px;
+	
+	
+}
+
+#Principal #linha1
+{
+	
+	float:right;
+	width: 39px;
+	height: 10px;
+	float:left;
+	text-align:center;
+	margin:10px;
+}
+
+p {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+
+p.especial {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	margin-left: 140px;
+}
+
+.linkespecial {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+
+}
+
+#Principal
+{
+	border: 3px #000 solid;
+	border-radius: 5px;
+	width:420px;
+	height:300px;
+}
+
+#ant {	
+	margin-left: 140px;
+
+}

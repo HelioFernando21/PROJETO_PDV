@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>PDV - Contato</title>
+<link rel="stylesheet" type="text/css" href="estilo4.css" />
+<script type="text/javascript">
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+</script>
+</head>
+
+<body>
+
+
+<div id="principal">
+
+	<div id="banner">
+    <div id="logo">
+    </div>
+    <div id="fotinho">
+    </div>
+    </div>
+    
+    
+    <div id="menu">
+    
+    
+    
+    <div id="bt1"> <a href="index.html"> Home </a> </div>
+    <div id="bt2"> <a href="produtos.html"> Produtos </a> </div>
+    <div id="bt3"> <a href="servicos.html"> Serviços </a> </div>
+    <div id="bt4"> <a href="contato.html"> Contato </a> </div>
+    
+          
+    </div>
+    <div id="conteudo">
+    
+    <div id="form">
+    
+    <form method="post">
+    <p>Seu nome:</p> <input type="text" name="nome" /> <br />
+    <p>Seu e-mail:</p> <input type="text" name="email" /> <br />
+    <p>Assunto: <select name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)">
+      <option>Instalação</option> <option>Reparo</option> <option>Manutenção</option>  <option>Outro</option>
+    </select> </p>
+    
+    <textarea name="campo" class="campo"cols="" rows=""></textarea><br />
+    <input type="submit" value="Enviar" />
+    
+    </form>    
+    
+    </div>
+    </div>
+    
+    
+    <div id="rodape">
+    </div>  
+</div>
+
+
+
+
+</body>
+</html>

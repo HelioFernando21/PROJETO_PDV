@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<banco>
+	<calendario>
+		<data>25/6/2012</data>
+		<senha>5</senha>
+		<horario1>9:00</horario1>
+		<horario2>10:00</horario2>
+		<horario3>11:00</horario3>
+		<horario4>12:00</horario4>
+		<horario5>14:00</horario5>
+		<rua1>Felipe Camarão,5,Aparecida,Santos,São Paulo,11025-250</rua1>
+		<rua2>Felipe Camarão,10,Aparecida,Santos,São Paulo,11025-250</rua2>
+		<rua3>Felipe Camarão,5,Aparecida,Santos,São Paulo,11025-250</rua3>
+		<rua4>Felipe Camarão,8,Aparecida,Santos,São Paulo,11025-250</rua4>
+		<rua5>Felipe Camarão,9,Aparecida,Santos,São Paulo,11025-250</rua5>
+		<tel1>3325-2562</tel1>
+		<tel2>3325-5895</tel2>
+		<tel3>3325-8956</tel3>
+		<tel4>3325-5478</tel4>
+		<tel5>3325-5478</tel5>
+		<assunto1>Cameras</assunto1>
+		<assunto2>Cameras e Cameras</assunto2>
+		<assunto3>Cameras</assunto3>
+		<assunto4>Portao</assunto4>
+		<assunto5>Portao</assunto5>
+	</calendario>
+</banco>

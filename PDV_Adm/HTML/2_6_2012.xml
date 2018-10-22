@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<banco>
+	<calendario>
+		<data>2/6/2012</data>
+		<senha>5</senha>
+		<horario1>9:00</horario1>
+		<horario2>10:00</horario2>
+		<horario3>11:00</horario3>
+		<horario4>12:00</horario4>
+		<horario5>14:00</horario5>
+		<rua1>Otavio Correia,3,Estuário,Santos,São Paulo,11025-230</rua1>
+		<rua2>Otavio Correia,3,Estuário,Santos,São Paulo,11025-230</rua2>
+		<rua3>Otavio Correia,3,Estuário,Santos,São Paulo,11025-230</rua3>
+		<rua4>Otavio Correia,3,Estuário,Santos,São Paulo,11025-230</rua4>
+		<rua5>Otavio Correia,3,Estuário,Santos,São Paulo,11025-230</rua5>
+		<tel1>3325-5252</tel1>
+		<tel2>3325-5252</tel2>
+		<tel3>3325-5252</tel3>
+		<tel4>3325-5252</tel4>
+		<tel5>3325-5252</tel5>
+		<assunto1>Escola</assunto1>
+		<assunto2>Escola</assunto2>
+		<assunto3>Escola</assunto3>
+		<assunto4>Escola</assunto4>
+		<assunto5>Escola</assunto5>
+	</calendario>
+</banco>

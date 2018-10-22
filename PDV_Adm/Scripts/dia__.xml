@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<banco>
+	<calendario>
+		<data>dia//</data>
+		<senha>3</senha>
+		<horario1></horario1>
+		<horario2></horario2>
+		<horario3>11:00</horario3>
+		<horario4>12:00</horario4>
+		<horario5>14:00</horario5>
+		<rua1></rua1>
+		<rua2></rua2>
+		<rua3>ty,ty,ty,ty,ty,sdfg</rua3>
+		<rua4>dfgdfg,ghjgfj,sdfsdf,dfgdfg,6,01</rua4>
+		<rua5>sdg,dsg,dsg,dsg,eita,sdfsdfsdf</rua5>
+	</calendario>
+</banco>
